@@ -37,7 +37,7 @@ Publications
 * **[Master of Science]** Design and Convergence Analysis of Multi-Agent System Distributed Optimization and Game Algorithm Based on Partial Information
   * Original Title in Chinese: 基于部分信息的多智能体分布式优化和博弈算法设计与收敛性分析
   * Advisor: Prof. Jinde Cao and Prof. Wenying Xu
-* **[Bachelor of Science]** Research on Acceleration Mechanism of Distributed Game Algorithm Based on Incomplete Information [[PDF]](.../files/毕业论文-v1.pdf)
+* **[Bachelor of Science]** Research on Acceleration Mechanism of Distributed Game Algorithm Based on Incomplete Information [[PDF]](.../files/paper1.pdf)
   * Original Title in Chinese: 基于不完全信息的分布式博弈算法加速机制研究
   * Advisor: Prof. Jinde Cao and Prof. Wenying Xu
 
