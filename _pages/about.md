@@ -13,7 +13,12 @@ On this site, you'll find information about my research projects, publications, 
 
 Education Background
 ======
-
+* 09/2021-Present: Master of Science, School of Mathematics, Southeast University
+  * Major: Complex Networks and Complex System
+  * Supervisor: Prof. Jinde Cao and Prof. Wenying Xu
+* 09/2017-06/2021: Bachelor of Science, School of Mathematics, Southeast University
+  * Major: Mathematics and Applied Mathematics
+  * GPA: 3.85/4.0, Average Score: 90.52/100
 
 Publications
 ======
