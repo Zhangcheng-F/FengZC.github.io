@@ -34,7 +34,7 @@ Publications
 * **[C2]** Difeng Zhang, **Zhangcheng Feng**, Shaofu Yang, and Wenying Xu, "Distributed Online Optimization with Long-Term Constraints and Bandit Feedback: An Event-Triggered Approach", *Chinese Conference on Swarm Intelligence and Cooperative Control, CCSICC 2023*, Nanjing, Jiangsu, China, 2023.
 
 ## Dissertation
-* **[Master of Science]** Design and Convergence Analysis of Multi-Agent System Distributed Optimization and Game Algorithm Based on Partial Information [[PDF]](.../files/毕业论文-v1.pdf)
+* **[Master of Science]** Design and Convergence Analysis of Multi-Agent System Distributed Optimization and Game Algorithm Based on Partial Information [[PDF]](.../_files/毕业论文-v1.pdf)
   * Original Title in Chinese: 基于部分信息的多智能体分布式优化和博弈算法设计与收敛性分析
   * Advisor: Prof. Jinde Cao and Prof. Wenying Xu
 * **[Bachelor of Science]** Research on Acceleration Mechanism of Distributed Game Algorithm Based on Incomplete Information
