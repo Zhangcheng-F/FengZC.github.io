@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhangcheng Feng(冯章成)"
+  name             : "Zhangcheng Feng 冯章成"
   pronouns         : # example: "she/her"  
-  bio              : "Master's Student"
+  bio              : "Master's Student in School of Mathematics, Southeast University"
   location         : "Nanjing, Jiangsu, China"
   employer         : "Southeast University"
   uri              : # URL
