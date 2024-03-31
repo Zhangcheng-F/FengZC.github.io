@@ -53,3 +53,11 @@ Honors and Awards
 * **06/2021**: [Southeast University 2021 Outstanding Undergraduate Thesis (Design)](https://zhangcheng-f.github.io/files/Award_Undergraduate_Thesis.pdf)
 * **06/2020**: [Nuode Logistics Scholarship](https://zhangcheng-f.github.io/files/Award_Nuode_logistics_scholarship.pdf)
 
+Activities
+======
+* **12/2023, Nanjing, Jiangsu, China**: Jiangsu Province Graduate Academic Innovation Forum in "Problem-Driven Mathematics and Applications"
+* **11/2023, Nanjing, Jiangsu, China**: The 7th Chinese Conference on Swarm Intelligence and Cooperative Control, CCSICC 2023
+* **07/2023, Qinhuangdao, Hebei, China**: The 13rd International Conference on CYBER technology in Automation, Control, and Intelligent Systems, IEEE-CYBER 2023
+* **05/2023, Chongqing, China**: The 7th Conference on Systems Science of China, CSSC 2023
+* **07/2022, Nanjing, Jiangsu, China**: The 9th International Congress of Chineses Mathematicians, ICCM 2022
+* **05/2021, Chengdu, Sichuan, China**: The 11th International Conference on Information Science and Technology, ICIST 2021
