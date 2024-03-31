@@ -46,10 +46,10 @@ Honors and Awards
 * **08/2022**: [Award-winner of ICCM (International Congress of Chineses Mathematicians) Creative Undergraduate Thesis Award 2022](https://zhangcheng-f.github.io/files/Award_ICCM.PDF)
 * **10/2023**: National Graduate Scholarship
 * **12/2023**: The Second Prize of the Jiangsu Province Graduate Academic Innovation Forum in "Problem-Driven Mathematics and Applications"
-* **09/2023**: Southeast University Advanced Individual in Academic Innovation
-* **06/2023**: Excellent Paper of the Academic Seminar of the Anniversary of Southeast University
+* **09/2023**: [Southeast University Advanced Individual in Academic Innovation](https://zhangcheng-f.github.io/files/Award_Advanced_Individual_in_Academic_Innovation.pdf)
+* **06/2023**: [Excellent Paper of the Academic Seminar of the Anniversary of Southeast University](https://zhangcheng-f.github.io/files/Award_academic_seminar_SEU.pdf)
 * **10/2022**: Graduate Academic Scholarship (1st class)
 * **03/2022**: Third Prize in the 17th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition
-* **06/2021**: Southeast University 2021 Outstanding Undergraduate Thesis (Design)
-* **06/2020**: Nuode Logistics Scholarship
+* **06/2021**: [Southeast University 2021 Outstanding Undergraduate Thesis (Design)](https://zhangcheng-f.github.io/files/Award_Undergraduate_Thesis.pdf)
+* **06/2020**: [Nuode Logistics Scholarship](https://zhangcheng-f.github.io/files/Award_Nuode_logistics_scholarship.pdf)
 
