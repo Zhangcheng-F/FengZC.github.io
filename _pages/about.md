@@ -25,12 +25,12 @@ Education Background
 Publications
 ======
 ## Journal Paper
-* **[J1] Zhangcheng Feng**, Wenying Xu, and Jinde Cao, "Distributed Nash Equilibrium Computation under Round-Robin Scheduling Protocol", *IEEE Transactions on Automatic Control*, 2024, 69(1):339-346. [DOI: 10.1109/TAC.2023.3262440](https://doi.org/10.1109/TAC.2023.3262440)
-* **[J2] Zhangcheng Feng**, Wenying Xu, Jinde Cao, Shaofu Yang, and Leszek Rutkowski, "Distributed Online Bandit Tracking for Nash Equilibrium under Partial-Decision Information Setting", *Science China Technological Sciences*, 2023, 66(11):3129-3138. [DOI: 10.1007/s11431-023-2513-8](https://doi.org/10.1007/s11431-023-2513-8).
-* **[J3] Zhangcheng Feng**, Wenying Xu, and Jinde Cao, "Alternating Inertial and Overrelaxed Algorithms for Distributed Generalized Nash Equilibrium Seeking in Multi-Player Games", *Fractal and Fractional*, 2021, 5(3):62. [DOI: 10.3390/fractalfract5030062](https://doi.org/10.3390/fractalfract5030062)
+* **[J1] Zhangcheng Feng**, Wenying Xu, and Jinde Cao, "[Distributed Nash Equilibrium Computation under Round-Robin Scheduling Protocol](https://doi.org/10.1109/TAC.2023.3262440)", *IEEE Transactions on Automatic Control*, 2024, 69(1):339-346.
+* **[J2] Zhangcheng Feng**, Wenying Xu, Jinde Cao, Shaofu Yang, and Leszek Rutkowski, "[Distributed Online Bandit Tracking for Nash Equilibrium under Partial-Decision Information Setting](https://doi.org/10.1007/s11431-023-2513-8)", *Science China Technological Sciences*, 2023, 66(11):3129-3138.
+* **[J3] Zhangcheng Feng**, Wenying Xu, and Jinde Cao, "[Alternating Inertial and Overrelaxed Algorithms for Distributed Generalized Nash Equilibrium Seeking in Multi-Player Games](https://doi.org/10.3390/fractalfract5030062)", *Fractal and Fractional*, 2021, 5(3):62.
 
 ## Conference Paper
-* **[C1] Zhangcheng Feng**, Wenying Xu, Jinde Cao, and Jinde Cao, "Distributed Alternated-Inertia Generalized Nash Equilibrium Seeking Algorithm: The Partial-Decision-Information Case", *The 11th International Conference on Information Science and Technology, ICIST 2021*, Chengdu, Sichuan, China, 2021:106-113. [DOI: 10.1109/ICIST52614.2021.9440596](https://doi.org/10.1109/ICIST52614.2021.9440596).
+* **[C1] Zhangcheng Feng**, Wenying Xu, Jinde Cao, and Jinde Cao, "[Distributed Alternated-Inertia Generalized Nash Equilibrium Seeking Algorithm: The Partial-Decision-Information Case](https://doi.org/10.1109/ICIST52614.2021.9440596)", *The 11th International Conference on Information Science and Technology, ICIST 2021*, Chengdu, Sichuan, China, 2021:106-113.
 * **[C2]** Difeng Zhang, **Zhangcheng Feng**, Shaofu Yang, and Wenying Xu, "Distributed Online Optimization with Long-Term Constraints and Bandit Feedback: An Event-Triggered Approach", *Chinese Conference on Swarm Intelligence and Cooperative Control, CCSICC 2023*, Nanjing, Jiangsu, China, 2023.
 
 ## Dissertation
