@@ -25,7 +25,7 @@ Education Background
 Publications
 ======
 ## Journal Paper
-* **[J1] Zhangcheng Feng**, Wenying Xu, and Jinde Cao, "[Distributed Nash Equilibrium Computation under Round-Robin Scheduling Protocol](https://doi.org/10.1109/TAC.2023.3262440)", *IEEE Transactions on Automatic Control*, 2024, 69(1):339-346.
+* **[J1] Zhangcheng Feng**, Wenying Xu, and Jinde Cao, "[Distributed Nash Equilibrium Computation under Round-Robin Scheduling Protocol](https://doi.org/10.1109/TAC.2023.3262440)", *IEEE Transactions on Automatic Control*, 2024, 69(1):339-346. [[Slides]](https://zhangcheng-f.github.io/files/Slides_NE_seeking_under_RR.pdf)
 * **[J2] Zhangcheng Feng**, Wenying Xu, Jinde Cao, Shaofu Yang, and Leszek Rutkowski, "[Distributed Online Bandit Tracking for Nash Equilibrium under Partial-Decision Information Setting](https://doi.org/10.1007/s11431-023-2513-8)", *Science China Technological Sciences*, 2023, 66(11):3129-3138.
 * **[J3] Zhangcheng Feng**, Wenying Xu, and Jinde Cao, "[Alternating Inertial and Overrelaxed Algorithms for Distributed Generalized Nash Equilibrium Seeking in Multi-Player Games](https://doi.org/10.3390/fractalfract5030062)", *Fractal and Fractional*, 2021, 5(3):62.
 
