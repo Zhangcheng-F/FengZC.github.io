@@ -30,7 +30,7 @@ Publications
 * **[J3] Zhangcheng Feng**, Wenying Xu, and Jinde Cao, "[Alternating Inertial and Overrelaxed Algorithms for Distributed Generalized Nash Equilibrium Seeking in Multi-Player Games](https://doi.org/10.3390/fractalfract5030062)", *Fractal and Fractional*, 2021, 5(3):62. [[Slides]](https://zhangcheng-f.github.io/files/Slides_Fractal.pdf)
 
 ## Conference Paper
-* **[C1] Zhangcheng Feng**, Wenying Xu, Jinde Cao, and Jinde Cao, "[Distributed Alternated-Inertia Generalized Nash Equilibrium Seeking Algorithm: The Partial-Decision-Information Case](https://doi.org/10.1109/ICIST52614.2021.9440596)", *The 11th International Conference on Information Science and Technology, ICIST 2021*, Chengdu, Sichuan, China, 2021:106-113.
+* **[C1] Zhangcheng Feng**, Wenying Xu, and Jinde Cao, "[Distributed Alternated-Inertia Generalized Nash Equilibrium Seeking Algorithm: The Partial-Decision-Information Case](https://doi.org/10.1109/ICIST52614.2021.9440596)", *The 11th International Conference on Information Science and Technology, ICIST 2021*, Chengdu, Sichuan, China, 2021:106-113.
 * **[C2]** Difeng Zhang, **Zhangcheng Feng**, Shaofu Yang, and Wenying Xu, "Distributed Online Optimization with Long-Term Constraints and Bandit Feedback: An Event-Triggered Approach", *Chinese Conference on Swarm Intelligence and Cooperative Control, CCSICC 2023*, Nanjing, Jiangsu, China, 2023.
 
 ## Dissertation
